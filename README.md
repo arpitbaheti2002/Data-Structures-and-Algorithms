@@ -1,2 +1,8 @@
-# Data Structures and Algirithms
- Compilation of all data structures and algorithms
+# Data Structures and Algorithms
+This repository is a collection of various Data Structures and Algorithms (DSA) that are commonly used in programming.
+
+## Table of Contents
+#### **Data Structures**
+* Essential C++ concepts
+	> [Array Basics](Data-Structures\cpp-concepts\1_array-basics.cpp)
+		

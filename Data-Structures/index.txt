@@ -1,0 +1,2 @@
+Essential cpp concepts
+1. arrays basics
