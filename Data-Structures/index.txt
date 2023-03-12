@@ -1,2 +1,3 @@
 Essential cpp concepts
 1. arrays basics
+2. structure
