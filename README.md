@@ -3,5 +3,5 @@ This repository is a collection of various Data Structures and Algorithms (DSA) 
 
 ## Table of Contents
 #### **Data Structures**
-* [Essential C++ concepts] (https://github.com/arpitbaheti2002/Data-Structures-and-Algirithms/blob/main/Data-Structures/cpp-concepts)
+* [Essential C++ concepts](https://github.com/arpitbaheti2002/Data-Structures-and-Algirithms/blob/main/Data-Structures/cpp-concepts)
 	  
