@@ -1,3 +1,11 @@
 Essential cpp concepts
 1. arrays basics
 2. structure
+3. pointers
+4. reference
+5. pointer to structure
+6. Functions
+    6.1. function
+    6.2. call by value
+    6.3. call by address
+    6.4. call by reference
