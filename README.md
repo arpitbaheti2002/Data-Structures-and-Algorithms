@@ -1,7 +1,22 @@
-# Data Structures and Algorithms
-This repository is a collection of various Data Structures and Algorithms (DSA) that are commonly used in programming.
+# Data Structures
 
-## Table of Contents
-#### **Data Structures**
-* [Essential C++ concepts](https://github.com/arpitbaheti2002/Data-Structures-and-Algirithms/blob/main/Data-Structures/cpp-concepts)
-	  
+<details> 
+<summary> 
+<strong> Essential C++ concepts </strong> 
+</summary>
+> [Array Basics](Data-Structures/cpp-concepts/1_array-basics.cpp)  
+> [Structure](Data-Structures/cpp-concepts/2_structure.cpp)  
+> [Pointer](Data-Structures/cpp-concepts/3_pointer.cpp)  
+> [Reference](Data-Structures/cpp-concepts/4_reference.cpp)   
+> [Pointer of Structure](Data-Structures/cpp-concepts/5_pointer_to_structure.cpp)
+<details>
+<summary>
+> [Functions](Data-Structures/cpp-concepts/6_functions)
+</summary>
+>> [function](Data-Structures/cpp-concepts/6_functions/6_1_function.cpp)<br>
+>> [call by value](Data-Structures/cpp-concepts/6_functions/6_2_call_by_value.cpp)<br>
+>> [call by address](Data-Structures/cpp-concepts/6_functions/6_2_call_by_address.cpp)<br>
+>> [call by reference](Data-Structures/cpp-concepts/6_functions/6_2_call_by_reference.cpp)<br>
+</details>
+
+</details>
