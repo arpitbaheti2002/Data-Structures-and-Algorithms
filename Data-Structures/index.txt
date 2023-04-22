@@ -9,3 +9,5 @@ Essential cpp concepts
     6.2. call by value
     6.3. call by address
     6.4. call by reference
+7. Array as parameter
+8. structure as parameter

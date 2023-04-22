@@ -1,6 +1,6 @@
 # Data Structures
 
-### Essential C++ concepts
+### [Essential C++ concepts](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts)
 
 + [Array Basics](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/1_array-basics.cpp)
 + [Structure](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/2_structure.cpp)
@@ -12,3 +12,5 @@
 >+ [call by value](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/6_functions/6_2_call_by_value.cpp)
 >+ [call by address](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/6_functions/6_3_call_by_address.cpp)
 >+ [call by reference](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/6_functions/6_4_call_by_reference.cpp)
+>+ [array as parameter](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/7_array_as_parameter.cpp)
+>+ [structure as parameter](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/8_structure_as_parameter.cpp)
