@@ -11,3 +11,4 @@ Essential cpp concepts
     6.4. call by reference
 7. Array as parameter
 8. structure as parameter
+9. structure and functions
