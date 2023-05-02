@@ -12,3 +12,11 @@ Essential cpp concepts
 7. Array as parameter
 8. structure as parameter
 9. structure and functions
+10. Programming styles
+        10.1. monolithic
+        10.2. modular
+        10.3. structure and functions
+        10.4. object oriented
+11. class and constructor
+12. Template class
+---------------------------------------------------------------------
