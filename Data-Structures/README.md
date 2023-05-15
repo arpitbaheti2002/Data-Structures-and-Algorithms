@@ -20,5 +20,10 @@
 >+ [modular](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/10_Programming-styles/10_2_modular.cpp)
 >+ [structure and functions](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/10_Programming-styles/10_3_structure-and-functions.cpp)
 >+ [object oreinted](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/10_Programming-styles/10_4_object-oriented.cpp)
-+[class and constructor](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/11_class_and_constructor.cpp)
-+[Template class](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/12_template_class.cpp) 
++ [class and constructor](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/11_class_and_constructor.cpp)
++ [Template class](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/12_template_class.cpp) 
+
+### [Recursion](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion)
+
++ [Print n natural numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/1_print-n-natural-numbers.cpp)
++ [Static variable](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/2_static-variable.cpp)
