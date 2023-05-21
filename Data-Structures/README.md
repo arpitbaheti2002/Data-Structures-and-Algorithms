@@ -27,3 +27,6 @@
 
 + [Print n natural numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/1_print-n-natural-numbers.cpp)
 + [Static variable](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/2_static-variable.cpp)
++ [Sum of n natural numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/3_sum-n-natural-numbers.cpp)
++ [Factorial of a number](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/4_factorial.cpp)
++ [Exponential Numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/5_exponent.cpp)
