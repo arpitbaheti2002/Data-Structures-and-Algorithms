@@ -30,3 +30,7 @@
 + [Sum of n natural numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/3_sum-n-natural-numbers.cpp)
 + [Factorial of a number](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/4_factorial.cpp)
 + [Exponential Numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/5_exponent.cpp)
++ [Taylor Series](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/6_taylor-series.cpp)
++ [Fibonacci Series](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/7_fibonacci-series.cpp)
++ [Selection Formula](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/8_selection-formula.cpp)
++ [Tower of Hanoi](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/9_Tower-of-Hanoi.cpp)
