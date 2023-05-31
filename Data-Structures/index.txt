@@ -32,3 +32,11 @@ Recursion
 8. Selection Formula
 9. Tower of Hanoi
 -------------------------------------------------------------------------------
+
+Array Representation
+1. Array declaration and accessing values
+2. Static and Dynamic arrays
+3. Increase size of an arrays
+4. 2D Array
+-------------------------------------------------------------------------------
+

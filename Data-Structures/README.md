@@ -34,3 +34,10 @@
 + [Fibonacci Series](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/7_fibonacci-series.cpp)
 + [Selection Formula](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/8_selection-formula.cpp)
 + [Tower of Hanoi](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/9_Tower-of-Hanoi.cpp)
+
+### [Array Representation](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array)
+
++ [Array declaration](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/1_array-declaration.cpp)
++ [Static and Dynamic Array declaration](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/2_static-and-dynamic-arrays.cpp)
++ [Increase size of an Array](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/3_increase-size-array.cpp)
++ [2D Arrays](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/4_2D-arrays.cpp)
