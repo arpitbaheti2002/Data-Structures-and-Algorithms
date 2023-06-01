@@ -41,3 +41,10 @@
 + [Static and Dynamic Array declaration](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/2_static-and-dynamic-arrays.cpp)
 + [Increase size of an Array](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/3_increase-size-array.cpp)
 + [2D Arrays](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/4_2D-arrays.cpp)
+
+### [Array ADT](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT)
++ [array](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/1_array.cpp)
++ [insert](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/2_insert.cpp)
++ [delete](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/3_delete.cpp)
++ [Linear Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/4_linear-search.cpp)
++ [improving Linear Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/5_improving-linear-search.cpp)

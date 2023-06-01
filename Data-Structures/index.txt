@@ -40,3 +40,9 @@ Array Representation
 4. 2D Array
 -------------------------------------------------------------------------------
 
+Array ADT
+1. array
+2. insert
+3. delete
+4. Linear search
+5. improving Linear search
