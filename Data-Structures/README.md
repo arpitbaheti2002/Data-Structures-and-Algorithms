@@ -48,3 +48,5 @@
 + [delete](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/3_delete.cpp)
 + [Linear Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/4_linear-search.cpp)
 + [improving Linear Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/5_improving-linear-search.cpp)
++ [Binary Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/6_binary-search.cpp)+ [Array functions](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/7_array-functions.cpp)
++ [Reverse](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/8_reverse.cpp)
