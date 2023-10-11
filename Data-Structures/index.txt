@@ -19,33 +19,3 @@ Essential cpp concepts
         10.4. object oriented
 11. class and constructor
 12. Template class
-------------------------------------------------------------------------------
-
-Recursion
-1. Print n natural numbers
-2. Static variable
-3. Sum of n natural numbers
-4. Factorial
-5. Exponent of a number
-6. Taylor Series
-7. Fibonacci Series
-8. Selection Formula
-9. Tower of Hanoi
--------------------------------------------------------------------------------
-
-Array Representation
-1. Array declaration and accessing values
-2. Static and Dynamic arrays
-3. Increase size of an arrays
-4. 2D Array
--------------------------------------------------------------------------------
-
-Array ADT
-1. array
-2. insert
-3. delete
-4. Linear search
-5. improving Linear search
-6. Binary search
-7. get(), max, min(), sum(), avg() (file name: array_functions.cpp)
-8. Reverse

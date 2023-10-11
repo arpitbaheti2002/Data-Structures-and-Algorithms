@@ -22,33 +22,3 @@
 >+ [object oreinted](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/10_Programming-styles/10_4_object-oriented.cpp)
 + [class and constructor](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/11_class_and_constructor.cpp)
 + [Template class](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/cpp-concepts/12_template_class.cpp) 
-
-### [Recursion](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion)
-
-+ [Print n natural numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/1_print-n-natural-numbers.cpp)
-+ [Static variable](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/2_static-variable.cpp)
-+ [Sum of n natural numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/3_sum-n-natural-numbers.cpp)
-+ [Factorial of a number](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/4_factorial.cpp)
-+ [Exponential Numbers](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/5_exponent.cpp)
-+ [Taylor Series](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/6_taylor-series.cpp)
-+ [Fibonacci Series](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/7_fibonacci-series.cpp)
-+ [Selection Formula](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/8_selection-formula.cpp)
-+ [Tower of Hanoi](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/recursion/9_Tower-of-Hanoi.cpp)
-
-### [Array Representation](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array)
-
-+ [Array declaration](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/1_array-declaration.cpp)
-+ [Static and Dynamic Array declaration](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/2_static-and-dynamic-arrays.cpp)
-+ [Increase size of an Array](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/3_increase-size-array.cpp)
-+ [2D Arrays](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array/4_2D-arrays.cpp)
-
-### [Array ADT](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT)
-+ [array](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/1_array.cpp)
-+ [insert](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/2_insert.cpp)
-+ [delete](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/3_delete.cpp)
-+ [Linear Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/4_linear-search.cpp)
-+ [improving Linear Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/5_improving-linear-search.cpp)
-+ [Binary Search](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/6_binary-search.cpp)
-+ [Array functions](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/7_array-functions.cpp)
-+ [Reverse](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/8_reverse.cpp)
-+ [Shift operations](https://github.com/arpitbaheti2002/Data-Structures-and-Algorithms/blob/main/Data-Structures/array-ADT/9_shift-operations.cpp)
