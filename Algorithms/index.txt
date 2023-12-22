@@ -1,0 +1,13 @@
+1. Mathematics
+    1.1. Count Digits
+    1.2. Palindrome number
+    1.3. Factorial
+    1.4. Trailing zeros in a Factorial    (Imp)
+    1.5. GCD
+    1.6. LCM
+    1.7. Check for prime
+    1.8. Prime factors
+    1.9. All divisors of a number
+    1.10. All prime numbers between 1 and n - Seive of Eratosthenes
+    1.11. Computing Power
+    1.12. Binary Exponentiation (Iterative power)     (Imp)
