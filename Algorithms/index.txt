@@ -11,3 +11,7 @@
     1.10. All prime numbers between 1 and n - Seive of Eratosthenes
     1.11. Computing Power
     1.12. Binary Exponentiation (Iterative power)     (Imp)
+
+2. Bits magic
+    2.1. Bitwise operator
+    2.2. Check if kth bit is set

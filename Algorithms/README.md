@@ -11,3 +11,7 @@
 10. Seive of Eratosthenes
 11. Computing Power
 12. Binary exponentiation (Iterative power)
+
+### Bits Magic
+1. Bitwise operator
+2. Check if kth bit is set
