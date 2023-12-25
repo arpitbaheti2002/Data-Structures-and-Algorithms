@@ -15,3 +15,9 @@
 ### Bits Magic
 1. Bitwise operator
 2. Check if kth bit is set
+3. Count set bits
+4. Power of 2
+5. One odd occurring element
+6. Find the missing number
+7. Find two odd appearing numbers
+8. Power set
