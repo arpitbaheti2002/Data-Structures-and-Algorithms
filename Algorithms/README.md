@@ -21,3 +21,17 @@
 6. Find the missing number
 7. Find two odd appearing numbers
 8. Power set
+
+### Recursion
+1. Print n to 1
+2. Print 1 to n
+3. Sum of natural numbers
+4. Checking palindrome
+5. Sum of digits
+6. Binary representation of a number
+7. Rope cutting problem
+8. Generate subsets
+9. Tower of Hanoi
+10. Josephus Problem
+11. Subset Sum Problem
+12. Print all permutations
