@@ -27,3 +27,22 @@
 7. Fibonacci Series
 8. nCr / Pascal's triangle
 9. Tower of Hanoi
+
+### Arrays
+1. Declaration
+2. Display
+3. Add/Insert
+4. Delete
+5. Linear Search
+6. Binary Search
+7. Get, Set
+8. Max, Min
+9. Sum, Avg
+10. Reverse, Shift, Rotate
+11. Insert in Sorted Array
+12. Bring negative on Left
+13. Merge two sorted Arrays
+14. Set Operations
+15. Find missing element
+16. Finding Duplicates
+17. Subarray with sum K

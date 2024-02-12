@@ -27,3 +27,22 @@
     2.7. Fibonacci Series
     2.8. nCr / Pascal's triangle    (Imp)
     2.9. Tower of Hanoi
+
+3. Arrays
+    3.1. Declaration and Traversal
+    3.2. Display
+    3.3. Add / Insert
+    3.4. Delete
+    3.5. Linear Search
+    3.6. Binary Search
+    3.7. Get and Set
+    3.8. Max and Min
+    3.9. Sum and Avg
+    3.10. Reverse, Shift and Rotate
+    3.11. Insert in Sorted Array
+    3.12. Bring negative on left
+    3.13. Merge two sorted Arrays
+    3.14. Set operations 
+    3.15. Missing element
+    3.16. Finding Duplicates
+    3.17. Subarray with sum K
