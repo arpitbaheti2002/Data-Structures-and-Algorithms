@@ -35,3 +35,34 @@
 10. Josephus Problem
 11. Subset Sum Problem
 12. Print all permutations
+
+### Arrays
+1. Operations
+2. Largest Element
+3. Second Largest Element
+4. Check if array is sorted
+5. Reverse an array
+6. Remove duplicates from sorted array
+7. Move all zeros to end
+8. Left rotate by one
+9. Left rotate by D
+10. Leaders in an array
+11. Maximum Difference
+12. Frequencies in a sorted array
+13. Stock Buy and Sell
+14. Trapping Rain Water
+15. Maximum consecutive 1's
+16. Maximum Subarray Sum   (Kadane's Algorithm)
+17. Longest Even-Odd Subarray
+18. Maximum circular subarray
+19. Majority Element
+20. Minimum Consecutive Flips
+21. Sliding Window Algorithm
+    1.  Maximum Sum of k Consecutive Elements
+    2.  Subarray with the given Sum
+    3.  N-bonacci number
+22. Prefix Sum Technique
+    1.  Prfix Sum Array
+    2.  Equilibrium index of an Array
+    3.  Maximum Occurring integer in given Ranges
+    4.  Split Array in Three Equal Sum Subarrays

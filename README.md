@@ -9,6 +9,7 @@
 1. Mathematics
 2. Bitwise magic
 3. Recursion
+4. Arrays
 <hr />
 <br />
 

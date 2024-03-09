@@ -35,3 +35,34 @@
     3.10. Josephus problem               (Imp)
     3.11. Subset sum problem            (Imp)
     3.12. Print all permutations        (Imp)
+
+4. Arrays
+    4.1. Operations in an Array
+    4.2. Largest Element
+    4.3. Second Largest Element
+    4.4. Check if array is sorted
+    4.5. Reverse an array
+    4.6. Remove duplicates from sorted array
+    4.7. Move all zeros to end
+    4.8. Left Rotate array by one
+    4.9. Left Rotate array by D
+    4.10. Leaders in an array
+    4.11. Maximum Difference
+    4.12. Frequencies in a sorted array
+    4.13. Stock Buy and Sell
+    4.14. Trapping Rain Water
+    4.15. Maximum consecutive ones
+    4.16. Maximum Subarray Sum (Kadane's algorithm)
+    4.17. Longest Even Odd Subarray
+    4.18. Maximum Circular Sum          (Imp)
+    4.19. Majority Element (Moore's voting algorithm)
+    4.20. Minimum Consecutive flips
+    4.21. Sliding Window Algorithm      (Imp)
+        4.21.1. Maximum Sum of k Consecutive Elements
+        4.21.2. Subarray with given Sum
+        4.21.3. N-bonacci number
+    4.22. Prefix Sum Technique          (Imp)
+        4.22.1. Prfix Sum Array
+        4.22.2. Equilibrium index of an Array
+        4.22.3. Maximum Occurring integer in given Ranges       (Imp)
+        4.22.4. Split Array in Three Equal Sum Subarrays        (Imp)
