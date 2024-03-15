@@ -2,6 +2,7 @@
 1. Essential C++ Concepts
 2. Recursion
 3. Arrays
+4. Strings
 <hr />
 <br />
 

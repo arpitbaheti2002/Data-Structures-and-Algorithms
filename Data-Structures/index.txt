@@ -46,3 +46,18 @@
     3.15. Missing element
     3.16. Finding Duplicates
     3.17. Subarray with sum K
+
+4. Strings
+    4.1. Declaration
+    4.2. Length of a String
+    4.3. Changing Cases
+    4.4. Counting Vowels and Consonants
+    4.5. Validating a String
+    4.6. Counting Words
+    4.7. Reversing a String
+    4.8. Comparing two Strings
+    4.9. Finding Duplicates in a String
+    4.10. Finding Duplicates using Bitwise Operations
+    4.11. Checking Palindrome
+    4.12. Checking Anagram
+    4.13. Permutations of a String
