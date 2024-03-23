@@ -61,3 +61,9 @@
 11. Checking Palindrome
 12. Checking Anagram
 13. Permutations of a String
+
+### Sparse Matrix
+1. Sparse Matrix
+2. Addition of Sparse Matrix
+3. Polynomial Representation
+4. Addition of Polynomial
